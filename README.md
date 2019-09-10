@@ -6,8 +6,8 @@ A simple static Checkers UI with game lobby, built to pair with the checkers DNA
 #
 ---
 ## How to Run :
-- Pull the https://github.com/Holochain/holochain-games-ui repo
-    - `git pull https://github.com/Holochain/holochain-games-ui`
+- Clone the https://github.com/holochain-devcamp/holochain-games-ui repo
+    - `git clone https://github.com/holochain-devcamp/holochain-games-ui`
     *Note : As this is a simple static UI, there are no deps to install.*
   
 - Open your terminal and run `npm run hc:start`, this will open up two PORTS at which you can visit the Checkers UI game.
